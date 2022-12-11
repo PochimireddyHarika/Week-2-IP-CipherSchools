@@ -1,0 +1,30 @@
+h1{
+    border:8px solid #ff0000;
+    background: darkcyan;
+    font-weight: 1000px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-top:40px;
+    padding-bottom:40px;
+    margin:40px;
+}
+
+h2+p{
+    border:8px dashed rgba(0, 0, 0, 0.897);
+    background-color: darkcyan;
+    font-size: medium;
+    font-weight: 1000px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top:40px;
+    padding-bottom:40px;
+    margin:40px;
+}
+h3+p{
+    border:8px dotted yellow;
+    background-color: darkcyan;
+    font-size: medium;
+    font-weight: 1000px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top:40px;
+    padding-bottom:40px;
+}
